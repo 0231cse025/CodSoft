@@ -1,3 +1,6 @@
+![Screenshot 2024-07-15 193455](https://github.com/user-attachments/assets/32efd785-bd62-4678-9700-06a045b7d01e)
+![Screenshot 2024-07-15 193552](https://github.com/user-attachments/assets/438b9f05-8de8-44b7-9e89-021f316ff568)
+![Screenshot 2024-07-15 193324](https://github.com/user-attachments/assets/59aef7de-ea8e-4d84-9dc3-a99a86a924a7)
 Project on GUI python 
 
 Task 1:
